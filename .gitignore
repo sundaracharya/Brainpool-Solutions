@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Env files (you may want to keep a .env.example instead)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Optional: Vercel or Netlify folders
+.vercel/
+.netlify/
+
+# Optional: if using TypeScript
+*.tsbuildinfo
+
+# Optional: Mac or Linux files
+*.swp
